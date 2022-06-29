@@ -1,0 +1,215 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #E5E5E5;
+}
+.kostyl{
+    background: url(../img/bgsearch.jpg) no-repeat;
+    /*background-size: cover;*/
+    background-size: contain;
+    height: 3735px;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0px;
+
+}
+.shapka-block {
+    padding: 0px;
+    background-color: rgb(242, 120, 92, 0.7);
+    width: 1440px;
+    max-width: 1440px;
+    max-height: 200px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.imglogo-parameters{
+    margin: 25px 0px 34px 156px;
+}
+.navi-shapkafirst {
+    margin-left: 158px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+}
+.navi-shapka {
+    margin-left: 42px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+}
+.butt-loginblock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.butt-login{
+    width: 103px;
+    height: 41px;
+    color: white;
+    background-color: rgb(107, 105, 233);
+    background: #0D606F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 170px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+}
+
+
+.searching-block{
+    height: 765px;
+    width: 1430px;
+    color: white;
+    margin-bottom: 50px;
+    
+}
+.zaglavie {
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+}
+.searching-center{
+    text-align: center;
+    padding: 30px;
+}
+.finder{
+    width: 560px;
+    height: 49px;
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #F2785C;
+}
+.butt-finder{
+    width: 228px;
+    height: 59px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    color: white;
+}
+.steps{
+    height: 247px;
+    width: 1177px;
+    margin-left: 131px;
+    color: orangered;
+    text-align: center;
+}
+.zaglavie2{
+    margin-bottom: 60px;
+}
+.step-button1{
+   margin-left: 73px;
+   margin-top: 93;
+}
+.step-button2{
+    margin-left: 366px;
+    margin-top: 93;
+ }
+ .step-button3{
+    margin-left: 330px;
+    margin-top: 93;
+ }
+ .underbutton1{
+    height: 247px;
+    width: 24px;
+    margin-left: 70px;
+ }
+ .underbutton2{
+    margin-left: 310px;
+ }
+ .underbutton3{
+    margin-left: 210px;
+ }
+ .zaglavie3{
+    color: orangered;
+    text-align: center;
+ }
+.img-circles{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.butt-findblock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .butt-find{
+    margin-bottom: 80px;
+    color: white;
+    width: 228px;
+    height: 59px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+ }
+
+
+ .zaglavie4{
+    color: orangered;
+    text-align: center;
+ }
+
+ .travel1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+ }
+ .travel2{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+ .travel3{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+ .travel4{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+ }
+ .butt-lastblock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ .butt-last{
+    color: white;
+    width: 228px;
+    height: 59px;
+    left: 608px;
+    top: 3574px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+ }
+
+
+.footer-block {
+    width: 1440px;
+    margin-top: 60px;
+    padding: 10px;
+    border-style: 2px dotted;
+}
+.footer-huyuter{
+    display: flex;
+    justify-content: end;
+    margin-right: 15px;
+}
+.paragraph-footer{
+    position: relative;
+    top: 15px;
+    right: 500px;
+}
